@@ -1,0 +1,8 @@
+## Metadane
+
+Orginalna baza danych jest dostępna pod scieżką: ../Original Data/12_swietokrzyskie.csv
+
+Kolumny które koduje baza 12_swietokrzyskie.csv to kolejno:
+indeks, Dni od zakupu, Markę produktu, Wiek kupującego, Płeć kupującego, Ocenę zakupu.
+
+Tabela zawiera 5 kolumn oraz 466 rekordów

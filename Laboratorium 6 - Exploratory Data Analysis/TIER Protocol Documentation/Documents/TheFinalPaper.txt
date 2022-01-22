@@ -1,0 +1,10 @@
+Final Paper
+ 
+ Hipotezy:
+ 1. Najwolniej ocenianą marką odkurzaczy to Beko i to głownie przez mężczyzn
+ 2. W Świętokrzyskim im starsze kobiety tym większe prawdopodobieństwo, że kupią odkurzacz marki Dyson
+ 3. Najmłodsze kobiety preferują markę Samsung
+ 4. U mężczyzn niemożna powiedzieć, że faworyzują konkretną markę
+ 5. Średni wiek mężczyzny kupującego odkurzacza to 40 lat, z bardzo małym odchyleniem standardowym
+ 6. Najczęściej występująca ocena to 2.5. Najrzadziej 0.
+ 7. Niższe oceny są wystawienie najszybciej.
